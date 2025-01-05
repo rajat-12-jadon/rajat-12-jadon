@@ -1,3 +1,4 @@
+![logo](https://github.com/rajat-12-jadon/rajat-12-jadon/blob/main/0eb023b2-61d4-46c5-acac-2ca6ebd78032.jpeg)
 <h1 align="center">Hi 👋, I'm Rajat Jadon</h1>
 <h3 align="center">Passionate about Technology, Driven by Curiosity</h3>
 
